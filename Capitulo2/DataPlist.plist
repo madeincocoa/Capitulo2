@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<array>
+		<dict>
+			<key>Name</key>
+			<string>Oliver</string>
+			<key>Surname</key>
+			<string>Aton</string>
+			<key>Notes</key>
+			<string>Mejor que Maradona, Pelé, Messi y CR7 juntos</string>
+			<key>Image</key>
+			<string>OliverAton.png</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>Benji</string>
+			<key>Surname</key>
+			<string>Price</string>
+			<key>Notes</key>
+			<string>Las paraba todas. Todas.</string>
+			<key>Image</key>
+			<string>BenjiPrice.png</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>Mark</string>
+			<key>Surname</key>
+			<string>Lenders</string>
+			<key>Notes</key>
+			<string>CR7 de la serie</string>
+			<key>Image</key>
+			<string>MarkLenders.png</string>
+		</dict>
+	</array>
+	<array>
+		<dict>
+			<key>Name</key>
+			<string>Goku</string>
+			<key>Surname</key>
+			<string></string>
+			<key>Notes</key>
+			<string>blablabla</string>
+			<key>Image</key>
+			<string>SonGoku.png</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>Vegeta</string>
+			<key>Surname</key>
+			<string></string>
+			<key>Notes</key>
+			<string>Malo Malote</string>
+			<key>Image</key>
+			<string>Vegeta.png</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>Krillin</string>
+			<key>Surname</key>
+			<string></string>
+			<key>Notes</key>
+			<string>Era calvo de pequeño y con pelo a partir de los 40</string>
+			<key>Image</key>
+			<string>Krillin.png</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>Fullet </string>
+			<key>Surname</key>
+			<string>Tortuga</string>
+			<key>Notes</key>
+			<string>El amo de la serie</string>
+			<key>Image</key>
+			<string></string>
+		</dict>
+	</array>
+	<array>
+		<dict>
+			<key>Name</key>
+			<string>Nobita</string>
+			<key>Surname</key>
+			<string>Nobi</string>
+			<key>Notes</key>
+			<string>Era tontito..</string>
+			<key>Image</key>
+			<string>Nobita.png</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>Doraemon</string>
+			<key>Surname</key>
+			<string></string>
+			<key>Notes</key>
+			<string>Todos queremos su bolsillo</string>
+			<key>Image</key>
+			<string>Doraemon.png</string>
+		</dict>
+	</array>
+</array>
+</plist>

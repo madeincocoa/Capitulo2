@@ -7,6 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		AB20938816189BD900CBAEB1 /* QuartzCore.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = AB20938716189BD900CBAEB1 /* QuartzCore.framework */; };
+		AB20938B16189E0C00CBAEB1 /* DataPlist.plist in Resources */ = {isa = PBXBuildFile; fileRef = AB20938A16189E0C00CBAEB1 /* DataPlist.plist */; };
 		ABE17D9E161892DA00F91D0C /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = ABE17D9D161892DA00F91D0C /* UIKit.framework */; };
 		ABE17DA0161892DA00F91D0C /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = ABE17D9F161892DA00F91D0C /* Foundation.framework */; };
 		ABE17DA2161892DA00F91D0C /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = ABE17DA1161892DA00F91D0C /* CoreGraphics.framework */; };
@@ -16,12 +18,27 @@
 		ABE17DB0161892DB00F91D0C /* Default.png in Resources */ = {isa = PBXBuildFile; fileRef = ABE17DAF161892DB00F91D0C /* Default.png */; };
 		ABE17DB2161892DB00F91D0C /* Default@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = ABE17DB1161892DB00F91D0C /* Default@2x.png */; };
 		ABE17DB4161892DB00F91D0C /* Default-568h@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = ABE17DB3161892DB00F91D0C /* Default-568h@2x.png */; };
-		ABE17DB7161892DB00F91D0C /* MainStoryboard_iPhone.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = ABE17DB5161892DB00F91D0C /* MainStoryboard_iPhone.storyboard */; };
 		ABE17DBA161892DB00F91D0C /* MainStoryboard_iPad.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = ABE17DB8161892DB00F91D0C /* MainStoryboard_iPad.storyboard */; };
-		ABE17DBD161892DB00F91D0C /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = ABE17DBC161892DB00F91D0C /* ViewController.m */; };
+		ABE17DD21618937E00F91D0C /* Bckg.png in Resources */ = {isa = PBXBuildFile; fileRef = ABE17DC41618937E00F91D0C /* Bckg.png */; };
+		ABE17DD31618937E00F91D0C /* BenjiPrice.png in Resources */ = {isa = PBXBuildFile; fileRef = ABE17DC61618937E00F91D0C /* BenjiPrice.png */; };
+		ABE17DD41618937E00F91D0C /* Doraemon.png in Resources */ = {isa = PBXBuildFile; fileRef = ABE17DC71618937E00F91D0C /* Doraemon.png */; };
+		ABE17DD51618937E00F91D0C /* FulletTortuga.png in Resources */ = {isa = PBXBuildFile; fileRef = ABE17DC81618937E00F91D0C /* FulletTortuga.png */; };
+		ABE17DD61618937E00F91D0C /* Krillin.png in Resources */ = {isa = PBXBuildFile; fileRef = ABE17DC91618937E00F91D0C /* Krillin.png */; };
+		ABE17DD71618937E00F91D0C /* MarkLenders.png in Resources */ = {isa = PBXBuildFile; fileRef = ABE17DCA1618937E00F91D0C /* MarkLenders.png */; };
+		ABE17DD81618937E00F91D0C /* Nobita.png in Resources */ = {isa = PBXBuildFile; fileRef = ABE17DCB1618937E00F91D0C /* Nobita.png */; };
+		ABE17DD91618937E00F91D0C /* OliverAton.png in Resources */ = {isa = PBXBuildFile; fileRef = ABE17DCC1618937E00F91D0C /* OliverAton.png */; };
+		ABE17DDA1618937E00F91D0C /* SonGoku.png in Resources */ = {isa = PBXBuildFile; fileRef = ABE17DCD1618937E00F91D0C /* SonGoku.png */; };
+		ABE17DDB1618937E00F91D0C /* Vegeta.png in Resources */ = {isa = PBXBuildFile; fileRef = ABE17DCE1618937E00F91D0C /* Vegeta.png */; };
+		ABE17DDC1618937E00F91D0C /* customer template.png in Resources */ = {isa = PBXBuildFile; fileRef = ABE17DCF1618937E00F91D0C /* customer template.png */; };
+		ABE17DDD1618937E00F91D0C /* customer template@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = ABE17DD01618937E00F91D0C /* customer template@2x.png */; };
+		ABE17DDE1618937E00F91D0C /* header.png in Resources */ = {isa = PBXBuildFile; fileRef = ABE17DD11618937E00F91D0C /* header.png */; };
+		ABE17DE11618943B00F91D0C /* CustomerCell.m in Sources */ = {isa = PBXBuildFile; fileRef = ABE17DE01618943B00F91D0C /* CustomerCell.m */; };
+		ABE17DE71618957300F91D0C /* CustomersCollectionViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = ABE17DE61618957300F91D0C /* CustomersCollectionViewController.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		AB20938716189BD900CBAEB1 /* QuartzCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = QuartzCore.framework; path = System/Library/Frameworks/QuartzCore.framework; sourceTree = SDKROOT; };
+		AB20938A16189E0C00CBAEB1 /* DataPlist.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = DataPlist.plist; sourceTree = "<group>"; };
 		ABE17D99161892DA00F91D0C /* Capitulo2.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Capitulo2.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		ABE17D9D161892DA00F91D0C /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
 		ABE17D9F161892DA00F91D0C /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
@@ -35,10 +52,24 @@
 		ABE17DAF161892DB00F91D0C /* Default.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Default.png; sourceTree = "<group>"; };
 		ABE17DB1161892DB00F91D0C /* Default@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Default@2x.png"; sourceTree = "<group>"; };
 		ABE17DB3161892DB00F91D0C /* Default-568h@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Default-568h@2x.png"; sourceTree = "<group>"; };
-		ABE17DB6161892DB00F91D0C /* en */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = en; path = en.lproj/MainStoryboard_iPhone.storyboard; sourceTree = "<group>"; };
 		ABE17DB9161892DB00F91D0C /* en */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = en; path = en.lproj/MainStoryboard_iPad.storyboard; sourceTree = "<group>"; };
-		ABE17DBB161892DB00F91D0C /* ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
-		ABE17DBC161892DB00F91D0C /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
+		ABE17DC41618937E00F91D0C /* Bckg.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = Bckg.png; path = Artwork/Bckg.png; sourceTree = "<group>"; };
+		ABE17DC61618937E00F91D0C /* BenjiPrice.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = BenjiPrice.png; sourceTree = "<group>"; };
+		ABE17DC71618937E00F91D0C /* Doraemon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Doraemon.png; sourceTree = "<group>"; };
+		ABE17DC81618937E00F91D0C /* FulletTortuga.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = FulletTortuga.png; sourceTree = "<group>"; };
+		ABE17DC91618937E00F91D0C /* Krillin.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Krillin.png; sourceTree = "<group>"; };
+		ABE17DCA1618937E00F91D0C /* MarkLenders.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = MarkLenders.png; sourceTree = "<group>"; };
+		ABE17DCB1618937E00F91D0C /* Nobita.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Nobita.png; sourceTree = "<group>"; };
+		ABE17DCC1618937E00F91D0C /* OliverAton.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = OliverAton.png; sourceTree = "<group>"; };
+		ABE17DCD1618937E00F91D0C /* SonGoku.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = SonGoku.png; sourceTree = "<group>"; };
+		ABE17DCE1618937E00F91D0C /* Vegeta.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Vegeta.png; sourceTree = "<group>"; };
+		ABE17DCF1618937E00F91D0C /* customer template.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "customer template.png"; path = "Artwork/customer template.png"; sourceTree = "<group>"; };
+		ABE17DD01618937E00F91D0C /* customer template@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "customer template@2x.png"; path = "Artwork/customer template@2x.png"; sourceTree = "<group>"; };
+		ABE17DD11618937E00F91D0C /* header.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = header.png; path = Artwork/header.png; sourceTree = "<group>"; };
+		ABE17DDF1618943B00F91D0C /* CustomerCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CustomerCell.h; sourceTree = "<group>"; };
+		ABE17DE01618943B00F91D0C /* CustomerCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CustomerCell.m; sourceTree = "<group>"; };
+		ABE17DE51618957300F91D0C /* CustomersCollectionViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CustomersCollectionViewController.h; sourceTree = "<group>"; };
+		ABE17DE61618957300F91D0C /* CustomersCollectionViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CustomersCollectionViewController.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -46,6 +77,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				AB20938816189BD900CBAEB1 /* QuartzCore.framework in Frameworks */,
 				ABE17D9E161892DA00F91D0C /* UIKit.framework in Frameworks */,
 				ABE17DA0161892DA00F91D0C /* Foundation.framework in Frameworks */,
 				ABE17DA2161892DA00F91D0C /* CoreGraphics.framework in Frameworks */,
@@ -58,6 +90,7 @@
 		ABE17D8E161892DA00F91D0C = {
 			isa = PBXGroup;
 			children = (
+				AB20938716189BD900CBAEB1 /* QuartzCore.framework */,
 				ABE17DA3161892DA00F91D0C /* Capitulo2 */,
 				ABE17D9C161892DA00F91D0C /* Frameworks */,
 				ABE17D9A161892DA00F91D0C /* Products */,
@@ -87,10 +120,11 @@
 			children = (
 				ABE17DAC161892DB00F91D0C /* AppDelegate.h */,
 				ABE17DAD161892DB00F91D0C /* AppDelegate.m */,
-				ABE17DB5161892DB00F91D0C /* MainStoryboard_iPhone.storyboard */,
 				ABE17DB8161892DB00F91D0C /* MainStoryboard_iPad.storyboard */,
-				ABE17DBB161892DB00F91D0C /* ViewController.h */,
-				ABE17DBC161892DB00F91D0C /* ViewController.m */,
+				ABE17DE51618957300F91D0C /* CustomersCollectionViewController.h */,
+				ABE17DE61618957300F91D0C /* CustomersCollectionViewController.m */,
+				ABE17DDF1618943B00F91D0C /* CustomerCell.h */,
+				ABE17DE01618943B00F91D0C /* CustomerCell.m */,
 				ABE17DA4161892DA00F91D0C /* Supporting Files */,
 			);
 			path = Capitulo2;
@@ -99,6 +133,8 @@
 		ABE17DA4161892DA00F91D0C /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				AB20938A16189E0C00CBAEB1 /* DataPlist.plist */,
+				ABE17DC31618936200F91D0C /* Artwork */,
 				ABE17DA5161892DA00F91D0C /* Capitulo2-Info.plist */,
 				ABE17DA6161892DA00F91D0C /* InfoPlist.strings */,
 				ABE17DA9161892DA00F91D0C /* main.m */,
@@ -108,6 +144,35 @@
 				ABE17DB3161892DB00F91D0C /* Default-568h@2x.png */,
 			);
 			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		ABE17DC31618936200F91D0C /* Artwork */ = {
+			isa = PBXGroup;
+			children = (
+				ABE17DC41618937E00F91D0C /* Bckg.png */,
+				ABE17DC51618937E00F91D0C /* Character Pictures */,
+				ABE17DCF1618937E00F91D0C /* customer template.png */,
+				ABE17DD01618937E00F91D0C /* customer template@2x.png */,
+				ABE17DD11618937E00F91D0C /* header.png */,
+			);
+			name = Artwork;
+			sourceTree = "<group>";
+		};
+		ABE17DC51618937E00F91D0C /* Character Pictures */ = {
+			isa = PBXGroup;
+			children = (
+				ABE17DC61618937E00F91D0C /* BenjiPrice.png */,
+				ABE17DC71618937E00F91D0C /* Doraemon.png */,
+				ABE17DC81618937E00F91D0C /* FulletTortuga.png */,
+				ABE17DC91618937E00F91D0C /* Krillin.png */,
+				ABE17DCA1618937E00F91D0C /* MarkLenders.png */,
+				ABE17DCB1618937E00F91D0C /* Nobita.png */,
+				ABE17DCC1618937E00F91D0C /* OliverAton.png */,
+				ABE17DCD1618937E00F91D0C /* SonGoku.png */,
+				ABE17DCE1618937E00F91D0C /* Vegeta.png */,
+			);
+			name = "Character Pictures";
+			path = "Artwork/Character Pictures";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -165,8 +230,21 @@
 				ABE17DB0161892DB00F91D0C /* Default.png in Resources */,
 				ABE17DB2161892DB00F91D0C /* Default@2x.png in Resources */,
 				ABE17DB4161892DB00F91D0C /* Default-568h@2x.png in Resources */,
-				ABE17DB7161892DB00F91D0C /* MainStoryboard_iPhone.storyboard in Resources */,
 				ABE17DBA161892DB00F91D0C /* MainStoryboard_iPad.storyboard in Resources */,
+				ABE17DD21618937E00F91D0C /* Bckg.png in Resources */,
+				ABE17DD31618937E00F91D0C /* BenjiPrice.png in Resources */,
+				ABE17DD41618937E00F91D0C /* Doraemon.png in Resources */,
+				ABE17DD51618937E00F91D0C /* FulletTortuga.png in Resources */,
+				ABE17DD61618937E00F91D0C /* Krillin.png in Resources */,
+				ABE17DD71618937E00F91D0C /* MarkLenders.png in Resources */,
+				ABE17DD81618937E00F91D0C /* Nobita.png in Resources */,
+				ABE17DD91618937E00F91D0C /* OliverAton.png in Resources */,
+				ABE17DDA1618937E00F91D0C /* SonGoku.png in Resources */,
+				ABE17DDB1618937E00F91D0C /* Vegeta.png in Resources */,
+				ABE17DDC1618937E00F91D0C /* customer template.png in Resources */,
+				ABE17DDD1618937E00F91D0C /* customer template@2x.png in Resources */,
+				ABE17DDE1618937E00F91D0C /* header.png in Resources */,
+				AB20938B16189E0C00CBAEB1 /* DataPlist.plist in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -179,7 +257,8 @@
 			files = (
 				ABE17DAA161892DA00F91D0C /* main.m in Sources */,
 				ABE17DAE161892DB00F91D0C /* AppDelegate.m in Sources */,
-				ABE17DBD161892DB00F91D0C /* ViewController.m in Sources */,
+				ABE17DE11618943B00F91D0C /* CustomerCell.m in Sources */,
+				ABE17DE71618957300F91D0C /* CustomersCollectionViewController.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -192,14 +271,6 @@
 				ABE17DA7161892DA00F91D0C /* en */,
 			);
 			name = InfoPlist.strings;
-			sourceTree = "<group>";
-		};
-		ABE17DB5161892DB00F91D0C /* MainStoryboard_iPhone.storyboard */ = {
-			isa = PBXVariantGroup;
-			children = (
-				ABE17DB6161892DB00F91D0C /* en */,
-			);
-			name = MainStoryboard_iPhone.storyboard;
 			sourceTree = "<group>";
 		};
 		ABE17DB8161892DB00F91D0C /* MainStoryboard_iPad.storyboard */ = {
@@ -271,6 +342,7 @@
 				GCC_PREFIX_HEADER = "Capitulo2/Capitulo2-Prefix.pch";
 				INFOPLIST_FILE = "Capitulo2/Capitulo2-Info.plist";
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				TARGETED_DEVICE_FAMILY = 2;
 				WRAPPER_EXTENSION = app;
 			};
 			name = Debug;
@@ -282,6 +354,7 @@
 				GCC_PREFIX_HEADER = "Capitulo2/Capitulo2-Prefix.pch";
 				INFOPLIST_FILE = "Capitulo2/Capitulo2-Info.plist";
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				TARGETED_DEVICE_FAMILY = 2;
 				WRAPPER_EXTENSION = app;
 			};
 			name = Release;
@@ -305,6 +378,7 @@
 				ABE17DC2161892DB00F91D0C /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
